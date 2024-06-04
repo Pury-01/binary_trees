@@ -28,4 +28,4 @@ I hope you enjoy the content.
 ## Author(s)
 
 - [Mike Machage](https://twitter.com/machage_)
-- [Purity Okumu](https://twitter.com/puryvero)
+- [Purity Okumu](mailto:puryokumu@gmail.com)

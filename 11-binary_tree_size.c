@@ -17,8 +17,4 @@ leftsize = binary_tree_size(tree->left);
 rightsize = binary_tree_size(tree->right);
 
 return (leftsize + rightsize + 1);
-<<<<<<< HEAD
 }
-=======
-		}
->>>>>>> 639b1e0754d76e427de1d22cf2a8906803699e55
